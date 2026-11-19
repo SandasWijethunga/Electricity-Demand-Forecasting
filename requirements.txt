@@ -1,0 +1,7 @@
+# Core Python dependencies observed in the supplied notebooks.
+numpy
+pandas
+matplotlib
+scikit-learn
+openpyxl
+tensorflow
